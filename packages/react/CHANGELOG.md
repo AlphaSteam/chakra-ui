@@ -1,5 +1,13 @@
 # @chakra-ui/react
 
+## 3.4.1
+
+### Patch Changes
+
+- [`6773708`](https://github.com/chakra-ui/chakra-ui/commit/677370821a0087549a265e2092d956bc39f8e440)
+  Thanks [@segunadebayo](https://github.com/segunadebayo)! - Fix issue where
+  native select isn't readable in dark mode for Windows/Linux devices.
+
 ## 3.4.0
 
 ### Minor Changes
